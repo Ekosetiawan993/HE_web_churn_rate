@@ -1,0 +1,2 @@
+This folder contain 3 csv files that provided by Hacker Earth.
+For further information, please go to https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-customer-churn/
